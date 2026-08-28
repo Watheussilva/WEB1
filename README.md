@@ -1,2 +1,2 @@
-# WEB1
+# Ja não gosto de GITHUB
 Repositória para atividades
