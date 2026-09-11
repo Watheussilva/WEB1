@@ -1,0 +1,36 @@
+PRIMEIRO CODIGO EM CSS:
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+/* This is a single-line comment */
+div {
+	color: black;
+	background-color: lightblue;
+	border: 2px solid white;
+	margin-top: 40px;
+	margin-bottom: 100px;
+	margin-right: 180px;
+	margin-left: 80px;
+}
+h1 {
+	margin-left: 200px;
+    	color: lightblue;
+
+}
+
+body {
+	background-color: black;
+
+}
+ 
+</style>
+</head>
+<body>
+
+<h1>THIS IS COMENT:</h1>
+<div>Hello World! his paragraph is styled with CSS, comments are not shown in the output.</div>
+
+</body>
+</html>
